@@ -44,8 +44,8 @@
 /* Exported constants --------------------------------------------------------*/
 /* Exported macro ------------------------------------------------------------*/
 /* Exported functions ------------------------------------------------------- */
-   void HAL_TIM_MspPostInit(TIM_HandleTypeDef *htim);
-	void Error_Handler(void);
+   
+	void Error_Handler(int fallo);
 	/* Exported thread functions,  
   Example: extern void app_main (void *arg); */
 

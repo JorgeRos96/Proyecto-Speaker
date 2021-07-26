@@ -191,6 +191,12 @@
       <pszMrulep></pszMrulep>
       <pSingCmdsp></pSingCmdsp>
       <pMultCmdsp></pMultCmdsp>
+      <SystemViewers>
+        <Entry>
+          <Name>System Viewer\TIM6</Name>
+          <WinId>35905</WinId>
+        </Entry>
+      </SystemViewers>
       <DebugDescription>
         <Enable>1</Enable>
         <EnableFlashSeq>0</EnableFlashSeq>
@@ -240,6 +246,54 @@
       <bDave2>0</bDave2>
       <PathWithFileName>.\stm32f4xx_hal_msp.c</PathWithFileName>
       <FilenameWithoutPath>stm32f4xx_hal_msp.c</FilenameWithoutPath>
+      <RteFlg>0</RteFlg>
+      <bShared>0</bShared>
+    </File>
+    <File>
+      <GroupNumber>1</GroupNumber>
+      <FileNumber>4</FileNumber>
+      <FileType>1</FileType>
+      <tvExp>0</tvExp>
+      <tvExpOptDlg>0</tvExpOptDlg>
+      <bDave2>0</bDave2>
+      <PathWithFileName>.\speaker.c</PathWithFileName>
+      <FilenameWithoutPath>speaker.c</FilenameWithoutPath>
+      <RteFlg>0</RteFlg>
+      <bShared>0</bShared>
+    </File>
+    <File>
+      <GroupNumber>1</GroupNumber>
+      <FileNumber>5</FileNumber>
+      <FileType>5</FileType>
+      <tvExp>0</tvExp>
+      <tvExpOptDlg>0</tvExpOptDlg>
+      <bDave2>0</bDave2>
+      <PathWithFileName>.\speaker.h</PathWithFileName>
+      <FilenameWithoutPath>speaker.h</FilenameWithoutPath>
+      <RteFlg>0</RteFlg>
+      <bShared>0</bShared>
+    </File>
+    <File>
+      <GroupNumber>1</GroupNumber>
+      <FileNumber>6</FileNumber>
+      <FileType>1</FileType>
+      <tvExp>0</tvExp>
+      <tvExpOptDlg>0</tvExpOptDlg>
+      <bDave2>0</bDave2>
+      <PathWithFileName>.\Delay.c</PathWithFileName>
+      <FilenameWithoutPath>Delay.c</FilenameWithoutPath>
+      <RteFlg>0</RteFlg>
+      <bShared>0</bShared>
+    </File>
+    <File>
+      <GroupNumber>1</GroupNumber>
+      <FileNumber>7</FileNumber>
+      <FileType>5</FileType>
+      <tvExp>0</tvExp>
+      <tvExpOptDlg>0</tvExpOptDlg>
+      <bDave2>0</bDave2>
+      <PathWithFileName>.\Delay.h</PathWithFileName>
+      <FilenameWithoutPath>Delay.h</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
     </File>
